@@ -2,9 +2,9 @@
 
 *Behind every record is a person having an actual day.*
 
-Implementation Specialist at re:Members. I build Salesforce integrations, single sign on, and data migrations for membership organizations: fraternities, sororities, foundations, associations. Groups that run on people showing up for each other, whose technology should make that easier, not harder.
+Implementation Specialist building Salesforce architecture: integrations, single sign on, data migrations, and the security and permission design that decides whether a connector is trustworthy or a liability. The clients I work with today are membership organizations, but the actual problem, getting disconnected systems to agree on who a person is and what they're allowed to touch, is the same one any company with more than one system runs into.
 
-I came into this sideways: history and anthropology, a stint in an archive, years in nonprofit fundraising and operations, then into the systems underneath organizations like the ones I used to work for.
+I came into this sideways: history and anthropology, a stint in an archive, years in fundraising and operations, then into the systems underneath the organizations I used to work for.
 
 **Where to look**
 - Portfolio and case studies: [butlerblue.github.io](https://butlerblue.github.io)
