@@ -9,4 +9,5 @@ I came into this sideways: history and anthropology, a stint in an archive, year
 **Where to look**
 - Portfolio and case studies: [butlerblue.github.io](https://butlerblue.github.io)
 - Writing, archived in full: [butlerblue.github.io/#writing](https://butlerblue.github.io/#writing)
+- Partner & Third-Party Integration Playbook: [github.com/ButlerBlue/integration-playbook](https://github.com/ButlerBlue/integration-playbook)
 - Get in touch: [LinkedIn](https://www.linkedin.com/in/sdlatt)
