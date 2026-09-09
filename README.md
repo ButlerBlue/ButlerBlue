@@ -1,3 +1,4 @@
+<img width="1500" height="400" alt="download" src="https://github.com/user-attachments/assets/1044098a-f112-433a-a87e-a12b5264a1fe" />
 # Stephanie Dlatt
 
 *Behind every record is a person having an actual day.*
